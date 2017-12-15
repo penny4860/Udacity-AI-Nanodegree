@@ -16,6 +16,6 @@ I have completed the AI ​​nanodegree. This repository is a collection of pro
 ## Deep Learning and Applications - Term 2
 
 5. [CNN: Dog Breed Classifier](5_dog_breed_classifier/)
-6. [RNN: Text Generation](6_rnn_text generation/)
+6. [RNN: Text Generation](6_rnn_text_generation/)
 7. [CNN: Facial Keypoint Detection](7_facial_keypoints/)
 
