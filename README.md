@@ -16,6 +16,6 @@ I have completed the AI ​​nanodegree. This repository is a collection of pro
 ## Deep Learning and Applications - Term 2
 
 5. [CNN: Dog Breed Classifier](5_dog_breed_classifier/)
-6. [RNN: Apple Stock & Sherlock Holmes](6_rnn_stock_sherlock/)
+6. [RNN: Apple Stock & Sherlock Holmes](6_rnn_text generation/)
 7. [CNN: Facial Keypoint Detection](7_facial_keypoints/)
 
