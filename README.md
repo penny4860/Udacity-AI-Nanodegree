@@ -19,5 +19,5 @@ I have completed the AI ​​nanodegree. This repository is a collection of pro
 6. [RNN: Text Generation](6_rnn_text_generation/)
 7. [CNN: Facial Keypoint Detection](7_facial_keypoints/)
 	* End-to-end facial keypoint system using deep learning and computer vision technology.
-
+	* ![image](face.png)
 
