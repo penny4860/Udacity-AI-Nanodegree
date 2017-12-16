@@ -12,6 +12,7 @@ I have completed the AI ​​nanodegree. This repository is a collection of pro
 	* AI agent that will solve the Diagonal Sudoku game.
 2. [Build a Game-Playing Agent](2_isolation/)
 	* Game AI agent that playing isolation game.
+	* ![image](game.gif)
 3. [Implement a Planning Search](3_planning/)
 	* Planning algorithm generated heuristics, including planning graph heuristics.
 4. [Build a Sign Language Recognizer](4_recognizer/)
